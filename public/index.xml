@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ein- und Ansichten von andike82</title>
+    <link>https://github.com/andike82/andike82/</link>
+    <description>Ein- und Ansichten von andike82</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Fri, 06 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="https://github.com/andike82/andike82/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weg</title>
+      <link>https://github.com/andike82/andike82/posts/weg/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/andike82/andike82/posts/weg/</guid>
+      <description>&lt;p&gt;Der Weg ist das Ziel?
+Interessanter Ansatz, aber brauchen wir nicht als erstes ein Ziel, in Form eines Fixpunktes?
+Würden wir uns sonst auf den Weg begeben?
+Ich würde sagen, dass unser Weg aus vielen Zielen besteht, welche sich ständig ändern.
+Ums anders auszudrücken, würde ich sagen:
+Das Ziel bestimmen wir, aber uns bestimmt der Weg!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
